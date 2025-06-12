@@ -58,3 +58,19 @@ def solve_quadratic():
 
 
 """To run each program delete the "#" before the run commands for each function then replace "#" """
+
+
+
+"""
+Reflection lab 00
+
+For the most part I did very well in the lab for week 0, however there are definitely a few mistakes that I made. 
+In total I think I had 3 mistakes 2 in the first section about variable names and the last one in the True or False statement section. 
+For the 1st 3 I got the whole variable name wrong, this is because the concept of it being a loop operator completely slipped my mind. 
+This was the same case for the second mistake being that I thought it would be a valid name. The last mistake that I made in this lab 
+was the problem “True or 5 =4” for some reason I put this as invalid. The right answer was valid and the outcome was True. It was because 
+it is in using the or operator meaning that just one True value in the expression will result in a True outcome. In the expression there is 
+already a True value and when 5 = 4 is analyzed it becomes a False outcome. Putting these 2 in an or operation results in a True outcome. 
+I think going forward I definitely will be able to point out these kinds of mistakes and avoid them.
+
+"""
